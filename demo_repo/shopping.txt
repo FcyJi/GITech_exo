@@ -17,4 +17,9 @@ soup
 ice cream
 sugar
 flour
+<<<<<<< HEAD
 
+=======
+salsa
+butter
+>>>>>>> 800f858 (Add butter to shopping list)

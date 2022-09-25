@@ -22,4 +22,7 @@ flour
 =======
 salsa
 butter
+<<<<<<< HEAD
+>>>>>>> 800f858 (Add butter to shopping list)
+=======
 >>>>>>> 800f858 (Add butter to shopping list)
